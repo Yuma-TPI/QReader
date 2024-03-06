@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">QReader</string>
+    <string name="start_camera">カメラを起動</string>
+    <string name="get_text">取得したText</string>
+</resources>
